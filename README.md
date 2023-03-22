@@ -5,7 +5,7 @@ Data Sets I Used:
 Store Annual Analysis/Cleaning/Dashboard>> [rishabhnmishra/Excel_Vrinda_Store_Analysis](https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 
-Tourism Analysis of Turkey 2012-2020 (according to TUİK(Turkish Statistical Institue) data) >
+Tourism Analysis of Turkey 2012-2020 (according to TUİK(Turkish Statistical Institute) data) >
 
 [Arriving Foreigners and Citizens /](https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=Ha/grP6vpKfrom63KQ3LdzPd2k2bqlX93zChFMbGzoANyQHoPwIHFP/1cRggaeFY)
 [Departing Foreigners and Citizens /](https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=zLhxXjsIuRU7ICG4eu9upPIWKexIrsCtFXCPTRKtU8zb3O8hjChjJnmFhFOpiQNc)
